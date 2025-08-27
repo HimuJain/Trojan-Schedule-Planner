@@ -1,0 +1,4329 @@
+[
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ACMD",
+    "name": "Academic Medicine",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ACTN",
+        "name": "Leventhal School of Accounting",
+        "sortOrder": 1
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ACCT",
+    "name": "Accounting",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ADSC",
+    "name": "Addiction Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ADNT",
+    "name": "Advanced Dental Education Conjoint Program",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "AME",
+    "name": "Aerospace and Mechanical Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PPDP",
+        "name": "Price School of Public Policy",
+        "sortOrder": 23
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "AEST",
+    "name": "Aerospace Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ALI",
+    "name": "American Language Institute",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "AMST",
+    "name": "American Studies and Ethnicity",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      },
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ANAT",
+    "name": "Anatomy",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ANST",
+    "name": "Anesthesiology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "CNMA",
+        "name": "Cinematic Arts",
+        "sortOrder": 7
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CTAN",
+    "name": "Animation",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ANTH",
+    "name": "Anthropology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ARAB",
+    "name": "Arabic",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ARCG",
+    "name": "Archaeology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ARCH",
+        "name": "Architecture",
+        "sortOrder": 2
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ARCH",
+    "name": "Architecture",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "FINE",
+        "name": "Roski School of Art and Design",
+        "sortOrder": 3
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ART",
+    "name": "Art",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "AHIS",
+    "name": "Art History",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ARTL",
+    "name": "Arts Leadership",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ACAD",
+        "name": "Arts, Technology and the Business of Innovation",
+        "sortOrder": 4
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ACAD",
+    "name": "Arts, Technology and the Business of Innovation",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ASTE",
+    "name": "Astronautical Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ASTR",
+    "name": "Astronomy",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "BIOC",
+    "name": "Biochemistry",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BKPT",
+        "name": "Biokinesiology and Physical Therapy",
+        "sortOrder": 22
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "BKN",
+    "name": "Biokinesiology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "BISC",
+    "name": "Biological Sciences",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "BME",
+    "name": "Biomedical Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PHAR",
+        "name": "Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences",
+        "sortOrder": 21
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "BPMK",
+    "name": "Biopharmaceutical Marketing",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PHAR",
+        "name": "Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences",
+        "sortOrder": 21
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "BPSI",
+    "name": "Biopharmaceutical Sciences",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BUS",
+        "name": "Marshall School of Business",
+        "sortOrder": 6
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "BUAD",
+    "name": "Business Administration",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BUS",
+        "name": "Marshall School of Business",
+        "sortOrder": 6
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "BUCO",
+    "name": "Business Communication",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BUS",
+        "name": "Marshall School of Business",
+        "sortOrder": 6
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "BAEP",
+    "name": "Business Entrepreneurship",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CBG",
+    "name": "Cancer Biology & Genomics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CNB",
+    "name": "Cell and Neurobiology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CHE",
+    "name": "Chemical Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CHEM",
+    "name": "Chemistry",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MUCM",
+    "name": "Choral Music",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "CNMA",
+        "name": "Cinematic Arts",
+        "sortOrder": 7
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CTCS",
+    "name": "Cinema and Media Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "CNMA",
+        "name": "Cinematic Arts",
+        "sortOrder": 7
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CNTV",
+    "name": "Cinematic Arts",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CE",
+    "name": "Civil Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CLAS",
+    "name": "Classics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PHAR",
+        "name": "Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences",
+        "sortOrder": 21
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CXPT",
+    "name": "Clinical and Experimental Therapeutics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CGSC",
+    "name": "Cognitive Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ANSC",
+        "name": "Annenberg School for Communication and Journalism",
+        "sortOrder": 8
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "COMM",
+    "name": "Communication",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ANSC",
+        "name": "Annenberg School for Communication and Journalism",
+        "sortOrder": 8
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ASCJ",
+    "name": "Communication and Journalism",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ANSC",
+        "name": "Annenberg School for Communication and Journalism",
+        "sortOrder": 8
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CMGT",
+    "name": "Communication Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "COH",
+    "name": "Community Oral Health",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "COLT",
+    "name": "Comparative Literature",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CSLC",
+    "name": "Comparative Studies in Literature and Culture",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MUCO",
+    "name": "Composition",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CSCI",
+    "name": "Computer Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MUCD",
+    "name": "Conducting",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CBY",
+    "name": "Craniofacial Biology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BVC",
+        "name": "Bovard College",
+        "sortOrder": 5
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CJ",
+    "name": "Criminal Justice",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "FINE",
+        "name": "Roski School of Art and Design",
+        "sortOrder": 3
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CRIT",
+    "name": "Critical Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "EDCR",
+        "name": "Rossier School of Education",
+        "sortOrder": 12
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CTSE",
+    "name": "Curriculum, Teaching, and Special Education",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNCR",
+        "name": "Kaufman School of Dance",
+        "sortOrder": 9
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DANC",
+    "name": "Dance",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DSCI",
+    "name": "Data Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BUS",
+        "name": "Marshall School of Business",
+        "sortOrder": 6
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DSO",
+    "name": "Data Sciences and Operations",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DBIO",
+    "name": "Dental Biochemistry",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DHYG",
+    "name": "Dental Hygiene",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DPBL",
+    "name": "Dental Problem Based Learning",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DENT",
+    "name": "Dentistry",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DHIS",
+    "name": "Dentistry History",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "FINE",
+        "name": "Roski School of Art and Design",
+        "sortOrder": 3
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DES",
+    "name": "Design",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DSR",
+    "name": "Development, Stem Cells and Regenerative Medicine",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ANSC",
+        "name": "Annenberg School for Communication and Journalism",
+        "sortOrder": 8
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DMM",
+    "name": "Digital Media Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ANSC",
+        "name": "Annenberg School for Communication and Journalism",
+        "sortOrder": 8
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DSM",
+    "name": "Digital Social Media",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SCDC",
+    "name": "Dornsife in DC Program",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DPHR",
+    "name": "DPHR",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DPHY",
+    "name": "DPHY",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "THTR",
+        "name": "Dramatic Arts",
+        "sortOrder": 11
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "THTR",
+    "name": "Dramatic Arts",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "THTR",
+        "name": "Dramatic Arts",
+        "sortOrder": 11
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "THTE",
+    "name": "Dramatic Arts Expanded",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EALC",
+    "name": "East Asian Languages and Cultures",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EASC",
+    "name": "East Asian Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ECON",
+    "name": "Economics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "EDCR",
+        "name": "Rossier School of Education",
+        "sortOrder": 12
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EDUC",
+    "name": "Education",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "EDCR",
+        "name": "Rossier School of Education",
+        "sortOrder": 12
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EDCO",
+    "name": "Education Counseling",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "EDCR",
+        "name": "Rossier School of Education",
+        "sortOrder": 12
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EDUE",
+    "name": "Education Expanded",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "EDCR",
+        "name": "Rossier School of Education",
+        "sortOrder": 12
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EDPA",
+    "name": "Educational Policy, Planning and Administration",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "EDCR",
+        "name": "Rossier School of Education",
+        "sortOrder": 12
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EDPT",
+    "name": "Educational Psychology and Technology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EE",
+    "name": "Electrical and Computer Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BVC",
+        "name": "Bovard College",
+        "sortOrder": 5
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EM",
+    "name": "Emergency Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ENGR",
+    "name": "Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EIS",
+    "name": "Engineering in Society",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ENGL",
+    "name": "English",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ENE",
+    "name": "Environmental Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ENST",
+    "name": "Environmental Studies Program",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "CNMA",
+        "name": "Cinematic Arts",
+        "sortOrder": 7
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CTXA",
+    "name": "Expanded Animation",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "FINE",
+        "name": "Roski School of Art and Design",
+        "sortOrder": 3
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "FDN",
+    "name": "Fashion Design",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BUS",
+        "name": "Marshall School of Business",
+        "sortOrder": 6
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "FBE",
+    "name": "Finance and Business Economics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BUS",
+        "name": "Marshall School of Business",
+        "sortOrder": 6
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "FIM",
+    "name": "Food Industry Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "FREN",
+    "name": "French",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "FSEM",
+    "name": "Freshman Seminars",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SWMS",
+    "name": "Gender and Sexuality Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GPR",
+    "name": "General Practice Residency",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GEOG",
+    "name": "Geography",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GEOL",
+    "name": "Geological Sciences",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GDEN",
+    "name": "Geriatric Dentistry",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GERM",
+    "name": "German Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "GERD",
+        "name": "Davis School of Gerontology",
+        "sortOrder": 14
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GERO",
+    "name": "Gerontology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GM",
+    "name": "Global Medicine",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GSEC",
+    "name": "Global Security Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BUS",
+        "name": "Marshall School of Business",
+        "sortOrder": 6
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GSBA",
+    "name": "Graduate School of Business Administration",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GR",
+    "name": "Greek",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PPDP",
+        "name": "Price School of Public Policy",
+        "sortOrder": 23
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "HMGT",
+    "name": "Health Care Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "HP",
+    "name": "Health Promotion and Disease Prevention Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PHAR",
+        "name": "Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences",
+        "sortOrder": 21
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "HCDA",
+    "name": "Healthcare Decision Analysis",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "HEBR",
+    "name": "Hebrew",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "EDCR",
+        "name": "Rossier School of Education",
+        "sortOrder": 12
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EDHP",
+    "name": "Higher and Postsecondary Education",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "HIST",
+    "name": "History",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BVC",
+        "name": "Bovard College",
+        "sortOrder": 5
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "HT",
+    "name": "Hospitality and Tourism",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "HBIO",
+    "name": "Human Biology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BVC",
+        "name": "Bovard College",
+        "sortOrder": 5
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "HRM",
+    "name": "Human Resource Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ISE",
+    "name": "Industrial and Systems Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ACAD",
+        "name": "Arts, Technology and the Business of Innovation",
+        "sortOrder": 4
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "IDSN",
+    "name": "Integrated Design, Business and Technology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "IAS",
+    "name": "Integrative Anatomical Sciences",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "CNMA",
+        "name": "Cinematic Arts",
+        "sortOrder": 7
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CTIN",
+    "name": "Interactive Media",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "INTD",
+    "name": "Interdepartmental",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "INDS",
+    "name": "Interdisciplinary Major Program",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "IR",
+    "name": "International Relations",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "ITAL",
+    "name": "Italian",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MUJZ",
+    "name": "Jazz Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ANSC",
+        "name": "Annenberg School for Communication and Journalism",
+        "sortOrder": 8
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "JOUR",
+    "name": "Journalism",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "JS",
+    "name": "Judaic Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "EXSC",
+    "name": "Kinesiology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "LAT",
+    "name": "Latin",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "LAW",
+        "name": "Law",
+        "sortOrder": 16
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "LAW",
+    "name": "Law",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "LBST",
+    "name": "Liberal Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BVC",
+        "name": "Bovard College",
+        "sortOrder": 5
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "LIM",
+    "name": "Library and Information Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "LING",
+    "name": "Linguistics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BUS",
+        "name": "Marshall School of Business",
+        "sortOrder": 6
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MOR",
+    "name": "Management and Organization",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BUS",
+        "name": "Marshall School of Business",
+        "sortOrder": 6
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MKT",
+    "name": "Marketing",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MPW",
+    "name": "Master of Professional Writing",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MASC",
+    "name": "Materials Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MATH",
+    "name": "Mathematics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "CNMA",
+        "name": "Cinematic Arts",
+        "sortOrder": 7
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "IML",
+    "name": "Media Arts and Practice",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MEDB",
+    "name": "Medical Biology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MBPH",
+    "name": "Medical Biophysics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MDED",
+    "name": "Medical Education",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MPHY",
+    "name": "Medical Physiology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MEDS",
+    "name": "Medical Sciences",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MED",
+    "name": "Medicine",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MDES",
+    "name": "Middle East Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PPDP",
+        "name": "Price School of Public Policy",
+        "sortOrder": 23
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MS",
+    "name": "Military Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MICB",
+    "name": "Molecular Microbiology and Immunology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PHAR",
+        "name": "Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences",
+        "sortOrder": 21
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MPTX",
+    "name": "Molecular Pharmacology and Toxicology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MSS",
+    "name": "Molecular Structure & Signaling (MSS)",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "CNMA",
+        "name": "Cinematic Arts",
+        "sortOrder": 7
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CMPP",
+    "name": "Motion Picture Producing",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MDA",
+    "name": "Multidisciplinary Activities",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MUSC",
+    "name": "Music",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MUEN",
+    "name": "Music Ensemble",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MUHL",
+    "name": "Music History and Literature",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MUIN",
+    "name": "Music Industry",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MTAL",
+    "name": "Music Teaching and Learning",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MTEC",
+    "name": "Music Technology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PPDP",
+        "name": "Price School of Public Policy",
+        "sortOrder": 23
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "NAUT",
+    "name": "Nautical Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PPDP",
+        "name": "Price School of Public Policy",
+        "sortOrder": 23
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "NSC",
+    "name": "Naval Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "NIIN",
+    "name": "Neuroimaging and Informatics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "NEUM",
+    "name": "Neuromedicine",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "NEUR",
+    "name": "Neuroscience",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "NSCI",
+    "name": "Neuroscience - Graduate",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "NURS",
+        "name": "Nursing",
+        "sortOrder": 19
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "NURS",
+    "name": "Nursing",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "OCCL",
+    "name": "Occlusion",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "OCST",
+        "name": "Chan Division of Occupational Science and Occupational Therapy",
+        "sortOrder": 20
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "OT",
+    "name": "Occupational Science and Occupational Therapy",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "OS",
+    "name": "Ocean Sciences",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "SWDP",
+        "name": "Dworak-Peck School of Social Work",
+        "sortOrder": 24
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SWKC",
+    "name": "On Campus and Hybrid Courses",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "OPER",
+    "name": "Operative Dentistry",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "OTEP",
+    "name": "Ophthalmic Technician Training",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "DIAG",
+    "name": "Oral Diagnosis And Radiology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "OMOD",
+    "name": "Oral Medicine Oral Diagnosis",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "OPR",
+    "name": "Oral Pathology and Radiology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "OFP",
+    "name": "Orofacial Pain",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "OFPM",
+    "name": "Orofacial Pain and Oral Medicine",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "OHNS",
+    "name": "Otolaryngology - Head and Neck Surgery",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PAIN",
+    "name": "Pain Medicine",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PATH",
+    "name": "Pathology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PEDO",
+    "name": "Pediatric Dentistry",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MPEM",
+    "name": "Performance (Early Music)",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MPGU",
+    "name": "Performance (Guitar)",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MPKS",
+    "name": "Performance (Keyboard Studies)",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MPPM",
+    "name": "Performance (Popular Music)",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MPST",
+    "name": "Performance (Strings)",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MPVA",
+    "name": "Performance (Vocal Arts)",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MPWP",
+    "name": "Performance (Winds and Percussion)",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DNTR",
+        "name": "Ostrow School of Dentistry",
+        "sortOrder": 10
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PERI",
+    "name": "Periodontics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "IRAN",
+    "name": "Persian",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PTE",
+    "name": "Petroleum Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PHAR",
+        "name": "Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences",
+        "sortOrder": 21
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "RXRS",
+    "name": "Pharmaceutical and Regulatory Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PHAR",
+        "name": "Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences",
+        "sortOrder": 21
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PMEP",
+    "name": "Pharmaceutical Economics and Policy",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PHAR",
+        "name": "Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences",
+        "sortOrder": 21
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PSCI",
+    "name": "Pharmaceutical Sciences",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PHAR",
+        "name": "Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences",
+        "sortOrder": 21
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PHRD",
+    "name": "Pharmacy",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PHIL",
+    "name": "Philosophy",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PHED",
+    "name": "Physical Education and Mind Body Health",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BKPT",
+        "name": "Biokinesiology and Physical Therapy",
+        "sortOrder": 22
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PT",
+    "name": "Physical Therapy",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PHYS",
+    "name": "Physics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PHBI",
+    "name": "Physiology and Biophysics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PPDP",
+        "name": "Price School of Public Policy",
+        "sortOrder": 23
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PPD",
+    "name": "Policy, Planning and Development",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PPDP",
+        "name": "Price School of Public Policy",
+        "sortOrder": 23
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PPDE",
+    "name": "Policy, Planning and Development - Expanded",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PEPP",
+    "name": "Political Economy and Public Policy",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "POSC",
+    "name": "Political Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "POIR",
+    "name": "Political Science and International Relations",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PM",
+    "name": "Population and Public Health Sciences",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PORT",
+    "name": "Portuguese",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PDF",
+    "name": "Postdoctoral Fellows",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PCPA",
+    "name": "Primary Care Physician Assistant",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ACAD",
+        "name": "Arts, Technology and the Business of Innovation",
+        "sortOrder": 4
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PRIN",
+    "name": "Product Innovation",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "CNMA",
+        "name": "Cinematic Arts",
+        "sortOrder": 7
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CTPR",
+    "name": "Production",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BVC",
+        "name": "Bovard College",
+        "sortOrder": 5
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PJMT",
+    "name": "Project Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PBHS",
+    "name": "Psychiatry and Behavioral Sciences",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PSYC",
+    "name": "Psychology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ANSC",
+        "name": "Annenberg School for Communication and Journalism",
+        "sortOrder": 8
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PUBD",
+    "name": "Public Diplomacy",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ANSC",
+        "name": "Annenberg School for Communication and Journalism",
+        "sortOrder": 8
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PR",
+    "name": "Public Relations",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ANSC",
+        "name": "Annenberg School for Communication and Journalism",
+        "sortOrder": 8
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PRSM",
+    "name": "Public Relations Innovation, Strategy and Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "QBIO",
+    "name": "Quantitative and Computational Biology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PPDP",
+        "name": "Price School of Public Policy",
+        "sortOrder": 23
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "RED",
+    "name": "Real Estate Development",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "RNR",
+    "name": "Registrar's Office",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PHAR",
+        "name": "Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences",
+        "sortOrder": 21
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "RSCI",
+    "name": "Regulatory Science",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "REL",
+    "name": "Religion",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "RHET",
+    "name": "Rhetoric",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "BUS",
+        "name": "Marshall School of Business",
+        "sortOrder": 6
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "RISK",
+    "name": "Risk Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "RUSS",
+    "name": "Russian",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "MSCR",
+    "name": "Sacred Music",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MUS",
+        "name": "Thornton School of Music",
+        "sortOrder": 18
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SCOR",
+    "name": "Screen Scoring",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SLL",
+    "name": "Slavic Languages and Literatures",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SOCI",
+    "name": "Sociology",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SSEM",
+    "name": "Sophomore Seminar",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SPAN",
+    "name": "Spanish",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SSCI",
+    "name": "Spatial Sciences",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SCRM",
+    "name": "Stem Cell Biology and Regenerative Medicine",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SMGT",
+    "name": "Sustainability Management",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SAE",
+    "name": "Systems Architecting and Engineering",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "ENGV",
+        "name": "Viterbi School of Engineering",
+        "sortOrder": 13
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "TAC",
+    "name": "Technology and Applied Computing",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "GRSC",
+        "name": "The Graduate School",
+        "sortOrder": 15
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "GRSC",
+    "name": "The Graduate School",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CORE",
+    "name": "Thematic Option",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "MEDK",
+        "name": "Keck School of Medicine",
+        "sortOrder": 17
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "TRGN",
+    "name": "Translational Genomics",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "USC",
+    "name": "University of Southern California",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "PPDP",
+        "name": "Price School of Public Policy",
+        "sortOrder": 23
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "PLUS",
+    "name": "Urban and Regional Planning",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "SWDP",
+        "name": "Dworak-Peck School of Social Work",
+        "sortOrder": 24
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "SWKO",
+    "name": "Virtual Academic Center",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "VISS",
+    "name": "Visual Studies",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "CNMA",
+        "name": "Cinematic Arts",
+        "sortOrder": 7
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "CTWR",
+    "name": "Writing",
+    "sortOrder": 0
+  },
+  {
+    "schools": [
+      {
+        "programs": null,
+        "termCode": 20253,
+        "prefix": "DRNS",
+        "name": "Dornsife College of Letters, Arts and Sciences",
+        "sortOrder": 0
+      }
+    ],
+    "courses": null,
+    "programNote": null,
+    "departmentClearances": null,
+    "termCode": 20253,
+    "prefix": "WRIT",
+    "name": "Writing",
+    "sortOrder": 0
+  }
+]

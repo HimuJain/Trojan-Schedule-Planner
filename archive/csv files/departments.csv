@@ -1,0 +1,210 @@
+DEP_ID,SCHL_CODE,DEP_NAME
+ALI,DRNS,American Language Institute
+AMST,DRNS,American Studies and Ethnicity
+ANTH,DRNS,Anthropology
+ARCG,DRNS,Archaeology
+ARAB,DRNS,Arabic
+AHIS,DRNS,Art History
+ASTR,DRNS,Astronomy
+BISC,DRNS,Biological Sciences
+CHEM,DRNS,Chemistry
+CLAS,DRNS,Classics
+COLT,DRNS,Comparative Literature
+CORE,DRNS,Thematic Option
+CSLC,DRNS,Comparative Studies in Literature and Culture
+SCDC,DRNS,Dornsife in DC Program
+EALC,DRNS,East Asian Languages and Cultures
+EASC,DRNS,East Asian Studies
+ECON,DRNS,Economics
+ENGL,DRNS,English
+ENST,DRNS,Environmental Studies Program
+GSEC,DRNS,Global Security Studies
+FREN,DRNS,French
+FSEM,DRNS,Freshman Seminars
+GEOL,DRNS,Geological Sciences
+GERM,DRNS,German Studies
+SWMS,DRNS,Gender and Sexuality Studies
+GR,DRNS,Greek
+HEBR,DRNS,Hebrew
+HIST,DRNS,History
+HBIO,DRNS,Human Biology
+INDS,DRNS,Interdisciplinary Major Program
+IR,DRNS,International Relations
+IRAN,DRNS,Persian
+ITAL,DRNS,Italian
+JS,DRNS,Judaic Studies
+LAT,DRNS,Latin
+LING,DRNS,Linguistics
+MATH,DRNS,Mathematics
+MDA,DRNS,Multidisciplinary Activities
+MDES,DRNS,Middle East Studies
+NEUR,DRNS,Neuroscience
+NSCI,DRNS,Neuroscience - Graduate
+OS,DRNS,Ocean Sciences
+PHED,DRNS,Physical Education and Mind Body Health
+PHIL,DRNS,Philosophy
+PHYS,DRNS,Physics
+POIR,DRNS,Political Science and International Relations
+PORT,DRNS,Portuguese
+POSC,DRNS,Political Science
+PSYC,DRNS,Psychology
+QBIO,DRNS,Quantitative Biology
+REL,DRNS,Religion
+RNR,DRNS,Registrar's Office
+RUSS,DRNS,Russian
+SLL,DRNS,Slavic Languages and Literatures
+SOCI,DRNS,Sociology
+SPAN,DRNS,Spanish
+SSCI,DRNS,Spatial Sciences
+USC,DRNS,University of Southern California
+WRIT,DRNS,Writing
+ACCT,ACTN,Accounting
+ARCH,ARCH,Architecture
+ACAD,ACAD,"Arts, Technology and the Business of Innovation"
+IDSN,ACAD,"Integrated Design, Business and Technology"
+PRIN,ACAD,Product Innovation
+BAEP,BUS,Business Entrepreneurship
+BUAD,BUS,Business Administration
+BUCO,BUS,Business Communication
+DSO,BUS,Data Sciences and Operations
+FBE,BUS,Finance and Business Economics
+GSBA,BUS,Graduate School of Business Administration
+LIM,BUS,Library and Information Management
+MKT,BUS,Marketing
+MOR,BUS,Management and Organization
+CJ,BVC,Criminal Justice
+EM,BVC,Emergency Management
+HRM,BVC,Human Resource Management
+HT,BVC,Hospitality and Tourism
+PJMT,BVC,Project Management
+CMPP,CNMA,Motion Picture Producing
+CNTV,CNMA,Cinematic Arts
+CTAN,CNMA,Animation
+CTCS,CNMA,Cinema and Media Studies
+CTIN,CNMA,Interactive Media
+CTPR,CNMA,Production
+CTWR,CNMA,Writing
+IML,CNMA,Media Arts and Practice
+CTXA,CNMA,Expanded Animation
+ASCJ,ANSC,Communication and Journalism
+CMGT,ANSC,Communication Management
+COMM,ANSC,Communication
+DMM,ANSC,Digital Media Management
+DSM,ANSC,Digital Social Media
+JOUR,ANSC,Journalism
+PR,ANSC,Public Relations
+PUBD,ANSC,Public Diplomacy
+DANC,DNCR,Dance
+ADNT,DNTR,Advanced Dental Education Conjoint Program
+DENT,DNTR,Dentistry
+COH,DNTR,Community Oral Health
+CBY,DNTR,Craniofacial Biology
+DPBL,DNTR,Dental Problem Based Learning
+GDEN,DNTR,Geriatric Dentistry
+GPR,DNTR,General Practice Residency
+OFP,DNTR,Orofacial Pain
+OFPM,DNTR,Orofacial Pain and Oral Medicine
+OPR,DNTR,Oral Pathology and Radiology
+OPER,DNTR,Operative Dentistry
+PEDO,DNTR,Pediatric Dentistry
+PERI,DNTR,Periodontics
+THTE,DNTR,Dramatic Arts Expanded
+THTR,THTR,Dramatic Arts
+EDCO,EDCR,Education Counseling
+EDHP,EDCR,Higher and Postsecondary Education
+EDPT,EDCR,Educational Psychology and Technology
+EDUC,EDCR,Education
+EDUE,EDCR,Education Expanded
+AME,ENGV,Aerospace and Mechanical Engineering
+ASTE,ENGV,Astronautical Engineering
+BME,ENGV,Biomedical Engineering
+CHE,ENGV,Chemical Engineering
+CE,ENGV,Civil Engineering
+CSCI,ENGV,Computer Science
+DSCI,ENGV,Data Science
+EE,ENGV,Electrical and Computer Engineering
+ENE,ENGV,Environmental Engineering
+ENGR,ENGV,Engineering
+ISE,ENGV,Industrial and Systems Engineering
+ITP,ENGV,Information Technology Program
+MASC,ENGV,Materials Science
+PTE,ENGV,Petroleum Engineering
+SAE,ENGV,Systems Architecting and Engineering
+ART,FINE,Art
+CRIT,FINE,Critical Studies
+DES,FINE,Design
+GESM,FINE,General Education Seminar
+GERO,GERD,Gerontology
+GRSC,GRSC,Graduate Studies
+LAW,LAW,Law
+ACMD,MEDK,Academic Medicine
+ADSC,MEDK,Addiction Science
+IAS,MEDK,Integrative Anatomical Sciences
+ANST,MEDK,Anesthesiology
+BIOC,MEDK,Biochemistry
+CBG,MEDK,Cancer Biology & Genomics
+DSR,MEDK,"Development, Stem Cells and Regenerative Medicine"
+HP,MEDK,Health Promotion and Disease Prevention Studies
+INTD,MEDK,Interdepartmental
+MBPH,MEDK,Medical Biophysics
+MDED,MEDK,Medical Education
+MED,MEDK,Medicine
+MEDB,MEDK,Medical Biology
+MEDS,MEDK,Medical Sciences
+MICB,MEDK,Molecular Microbiology and Immunology
+MPHY,MEDK,Medical Physiology
+NIIN,MEDK,Neuroimaging and Informatics
+OHNS,MEDK,Otolaryngology - Head and Neck Surgery
+PAIN,MEDK,Pain Medicine
+PATH,MEDK,Pathology
+PBHS,MEDK,Psychiatry and Behavioral Sciences
+PHBI,MEDK,Physiology and Biophysics
+PM,MEDK,Population and Public Health Sciences
+PCPA,MEDK,Primary Care Physician Assistant
+SCRM,MEDK,Stem Cell Biology and Regenerative Medicine
+TRGN,MEDK,Translational Genomics
+ARTL,MUS,Arts Leadership
+MTEC,MUS,Music Technology
+MSCR,MUS,Sacred Music
+MTAL,MUS,Music Teaching and Learning
+MUCM,MUS,Choral Music
+MUCO,MUS,Composition
+MUCD,MUS,Conducting
+MUEN,MUS,Music Ensemble
+MUHL,MUS,Music History and Literature
+MUIN,MUS,Music Industry
+MUJZ,MUS,Jazz Studies
+MPEM,MUS,Performance (Early Music)
+MPGU,MUS,Performance (Guitar)
+MPKS,MUS,Performance (Keyboard Studies)
+MPPM,MUS,Performance (Popular Music)
+MPST,MUS,Performance (Strings)
+MPVA,MUS,Performance (Vocal Arts)
+MPWP,MUS,Performance (Winds and Percussion)
+MUSC,MUS,Music
+SCOR,MUS,Screen Scoring
+NURS,NURS,Nursing
+OT,OCST,Occupational Science and Occupational Therapy
+BPMK,PHAR,Biopharmaceutical Marketing
+BPSI,PHAR,Biopharmaceutical Sciences
+CXPT,PHAR,Clinical and Experimental Therapeutics
+HCDA,PHAR,Healthcare Decision Analysis
+MPTX,PHAR,Molecular Pharmacology and Toxicology
+PHRD,PHAR,Pharmacy
+PMEP,PHAR,Pharmaceutical Economics and Policy
+PSCI,PHAR,Pharmaceutical Sciences
+RSCI,PHAR,Regulatory Science
+RXRS,PHAR,Pharmaceutical and Regulatory Science
+BKN,PHAR,Biokinesiology
+PT,PHAR,Physical Therapy
+AEST,PPDP,Aerospace Studies
+HMGT,PPDP,Health Care Management
+MS,PPDP,Military Science
+NAUT,PPDP,Nautical Science
+NSC,PPDP,Naval Science
+PPD,PPDP,"Policy, Planning and Development"
+PPDE,PPDP,"Policy, Planning and Development - Expanded"
+PLUS,PPDP,Urban and Regional Planning
+RED,PPDP,Real Estate Development
+SWKC,SWDP,On Campus and Hybrid courses
+SWKO,SWDP,Virtual Academic Center
