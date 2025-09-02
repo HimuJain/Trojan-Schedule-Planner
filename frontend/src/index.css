@@ -1,0 +1,55 @@
+
+@import "tailwindcss";
+
+@theme {
+  /* radii */
+  --radius-xl: 0.75rem;
+  --radius-2xl: 1rem;
+
+  /* shadow */
+  --shadow-soft: 0 4px 20px rgba(0,0,0,0.08);
+
+  /* brand palette (only what you actually use) */
+  --color-brand-50:  #eef2ff;
+  --color-brand-100: #e0e7ff;
+  --color-brand-200: #c7d2fe;
+  --color-brand-300: #a5b4fc;
+  --color-brand-400: #818cf8;
+  --color-brand-500: #6366f1;
+  --color-brand-600: #4f46e5;
+  --color-brand-700: #4338ca;
+  --color-brand-800: #3730a3;
+  --color-brand-900: #312e81;
+}
+
+
+:root { color-scheme: light dark; }
+
+body {
+  @apply bg-neutral-50 text-neutral-900
+         dark:bg-neutral-950 dark:text-neutral-100;
+}
+
+.container { @apply max-w-5xl mx-auto px-4; }
+
+.card {
+  @apply bg-white dark:bg-neutral-900 rounded-2xl shadow-soft
+         border border-neutral-200/60 dark:border-neutral-800;
+}
+
+.btn {
+  @apply inline-flex items-center gap-2 rounded-xl px-3 py-2 text-sm font-medium
+         border border-neutral-300 dark:border-neutral-700
+         hover:bg-neutral-50 dark:hover:bg-neutral-800;
+}
+
+.input {
+  @apply w-full rounded-xl border border-neutral-300 dark:border-neutral-700
+         bg-white/60 dark:bg-neutral-900/60 px-3 py-2 outline-none
+         focus:ring-2 focus:ring-brand-400;
+}
+
+.badge {
+  @apply inline-flex items-center rounded-lg border px-2 py-0.5 text-xs
+         border-neutral-300 dark:border-neutral-700;
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "code": "CSCI 201",
+    "title": "Principles of Software Development",
+    "units": 4,
+    "dept": "CSCI",
+    "ge": [],
+    "instructor": "Lee",
+    "days": ["M", "W"],
+    "time": "10:00–11:50",
+    "location": "SAL 101"
+  },
+  {
+    "code": "CSCI 270",
+    "title": "Intro to Algorithms and Theory",
+    "units": 4,
+    "dept": "CSCI",
+    "ge": [],
+    "instructor": "Arratia",
+    "days": ["Tu", "Th"],
+    "time": "12:30–13:50",
+    "location": "THH 201"
+  },
+  {
+    "code": "ITP 249",
+    "title": "Intro to Data Analytics",
+    "units": 4,
+    "dept": "ITP",
+    "ge": [],
+    "instructor": "Wong",
+    "days": ["M", "W"],
+    "time": "14:00–15:20",
+    "location": "OHE 122"
+  },
+  {
+    "code": "MATH 407",
+    "title": "Probability Theory",
+    "units": 4,
+    "dept": "MATH",
+    "ge": [],
+    "instructor": "Arratia",
+    "days": ["Tu", "Th"],
+    "time": "09:30–10:50",
+    "location": "KAP 160"
+  },
+  {
+    "code": "ANTH 202",
+    "title": "Humans and Their Environment",
+    "units": 4,
+    "dept": "ANTH",
+    "ge": ["G"],
+    "instructor": "Mayfield",
+    "days": ["F"],
+    "time": "10:00–12:50",
+    "location": "THH 101"
+  },
+  {
+    "code": "MUEN 307",
+    "title": "Marching Band",
+    "units": 1,
+    "dept": "MUEN",
+    "ge": [],
+    "instructor": "Staff",
+    "days": ["M", "W", "F"],
+    "time": "16:00–17:50",
+    "location": "PRK Field"
+  },
+  {
+    "code": "ASTR 100",
+    "title": "The Universe",
+    "units": 4,
+    "dept": "ASTR",
+    "ge": ["F"],
+    "instructor": "Kim",
+    "days": ["Tu"],
+    "time": "18:00–20:50",
+    "location": "SLH 102"
+  }
+]
