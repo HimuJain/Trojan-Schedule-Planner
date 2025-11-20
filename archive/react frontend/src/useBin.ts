@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState, useCallback } from "react";
-import type { Course } from "../lib/types";
+import type { Course } from "./lib/types";
 
 const LS_KEY = "uscplanner.bin.v1";
 

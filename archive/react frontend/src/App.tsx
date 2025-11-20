@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import type { Course } from "./lib/types";
 import { fetchCourses } from "./lib/api";
-import { useCourseBin } from "./state/useBin";
+import { useCourseBin } from "./useBin";
+
 function CourseCard(
   { c, inBin, onAdd, onRemove }:
   { c: Course; inBin: boolean; onAdd: (c: Course) => void; onRemove: (code: string) => void }

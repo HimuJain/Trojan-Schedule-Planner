@@ -1,0 +1,52 @@
+Code,Name,20201,20202,20203,20211,20212,20213,20221,20222,20223,20231,20232,20233,20241,20242,20243,20251,20252,20253
+ACCT,Accounting,BUS,---,---,---,---,---,---,---,---,---,---,---,---,---,ACTN,---,---,---
+ADSC,Addiction Science,,,,,,,,MEDK,---,---,---,---,---,---,---,---,---,---
+AMED,Anesthesia And Medicine,,,,,,,,,,,,,,DNTR,---,,,
+ARM,Armenian Studies,,,,,,,,,,,,,,,DRNS,,,
+BITE,Biomedical Implants and Tissue Engineering,,,,,,,,,,,,,,DNTR,---,,,
+BMDD,Biomaterials and Digital Dentistry,,,,,,,,,,,,,,DNTR,---,,,
+BPSI,Biopharmaceutical Sciences,,,,,,PHAR,---,---,---,---,---,---,---,---,---,---,---,---
+CGSC,Cognitive Science,,,,,,,,,,,,DRNS,---,---,---,---,---,---
+CTXA,Expanded Animation,,,,,,,CNMA,---,---,---,---,---,---,---,---,---,---,---
+DMM,Digital Media Management,,,,,,ANSC,---,---,---,---,---,---,---,---,---,---,---,---
+DSCI,Data Science,,,ENGV,---,---,---,---,---,---,---,---,---,---,---,---,---,---,---
+EIS,Engineering in Society,,,,,,,,,,,,ENGV,---,---,---,---,---,---
+EM,Emergency Management,,,,,,BVC,---,---,---,---,---,---,---,---,---,---,---,---
+ENDO,Endodontics,,,,,,,,,,,,,,DNTR,,,,
+FDN,Fashion Design,,,,,,,,,,,,FINE,---,---,---,---,---,---
+GPPD,"Global Policy, Planning and Development",PPDP,---,---,---,---,---,---,---,---,---,---,---,---,---,---,,,
+GPR,General Practice Residency,,,,,,,,,DNTR,---,---,---,---,---,---,---,---,---
+GRSC,The Graduate School,,,,,,,,,,,,,,GRSC,---,---,---,---
+GSEC,Global Security Studies,,,DRNS,---,---,---,---,---,---,---,---,---,---,---,---,---,---,---
+HT,Hospitality and Tourism,,,,BVC,---,---,---,---,---,---,---,---,---,---,---,---,---,---
+INF,Data Science,ENGV,---,,,,,,,,,,,,,,,,
+IOM,Information and Operations Management,BUS,---,---,---,---,---,---,---,---,---,---,---,---,---,---,,,
+ITP,Information Technology Program,ENGV,---,---,---,---,---,---,---,---,---,---,---,---,---,---,---,---,
+LIM,Library and Information Management,BUS,---,---,---,---,---,---,---,---,---,---,---,---,---,BVC,---,---,---
+MCOM,Management Communication,BUS,---,---,---,---,---,---,---,---,---,---,---,---,---,---,,,
+MDED,Medical Education,,,MEDK,---,---,---,---,---,---,---,---,---,---,---,---,---,---,---
+NEUM,Neuromedicine,,,,,,,,,,,,MEDK,---,---,---,---,---,---
+NURS,Nursing,,,,,,,,,,,,,,NURS,---,---,---,---
+ORTH,Orthodontics,,,,,,,,,,,,,,DNTR,---,,,
+PBHS,Psychiatry and Behavioral Sciences,,,,,,,,,MEDK,---,---,---,---,---,---,---,---,---
+PDF,Postdoctoral Fellows,,,,,,,,,,,,,,DRNS,---,---,---,---
+PHAR,Alfred E. Mann School of Pharmacy and Pharmaceutical Sciences,PHAR,---,---,---,---,---,---,---,---,---,---,---,---,,,,,
+PLDV,Planning and Development,PPDP,---,---,---,---,---,---,---,---,---,---,---,---,---,---,,,
+PRIN,Product Innovation,,,ACAD,---,---,---,---,---,---,---,---,---,---,---,---,---,---,---
+PRSM,"Public Relations Innovation, Strategy and Management",,,,,,,,,,,,ANSC,---,---,---,---,---,---
+PTHL,PTHL,,,,,,,,,,,,,,DNTR,---,,,
+REST,Restorative Dentistry,,,,,,,,,,,,,,DNTR,---,,,
+RHET,Rhetoric,,,DRNS,---,---,---,---,---,---,---,---,---,---,---,---,---,---,---
+RISK,Risk Management,,,,,,,,,,,,,,,BUS,---,,---
+ROBO,Robotics,,,ENGV,---,---,---,---,---,---,---,---,---,---,---,---,,---,
+SCDC,Dornsife in DC Program,,,,DRNS,---,---,---,---,---,---,---,---,---,---,---,---,---,---
+SGY,Surgery,,,,,,,,,,,,,,,MEDK,,,
+SMGT,Sustainability Management,,,,,,,,,,,,DRNS,---,---,---,---,---,---
+SOWK,Social Work,SWDP,---,---,---,---,---,---,---,---,---,---,---,---,,,,,
+SURG,Oral Surgery,,,,,,,,,,,,,,DNTR,---,,,
+SWKC,On Campus and Hybrid Courses,,,,,,,,,,,,,,SWDP,---,---,---,---
+SWKO,Virtual Academic Center,,,,,,,,,,,,,,SWDP,---,---,---,---
+TAC,Technology and Applied Computing,,,,,,,,,,,,,,,,,,ENGV
+THTE,Dramatic Arts Expanded,,,DRAM,---,---,---,---,---,---,---,---,---,---,THTR,---,---,---,---
+THTR,Dramatic Arts,DRAM,---,---,---,---,---,---,---,---,---,---,---,---,THTR,---,---,---,---
+UGST,Undergraduate Studies,,,,,,,,,,,,,,,,,,UGST
