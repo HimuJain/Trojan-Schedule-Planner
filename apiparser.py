@@ -1,11 +1,85 @@
 import requests
 import json
+from nltk.tokenize import RegexpTokenizer
+import os
+from dotenv import load_dotenv
+import re
 
-dataListList = []
-for i in range(9):
-    a = i//3
-    b = (i%3) + 1
-    termCode = 20230 + (a*10) + b
+
+
+
+def instructorValidity(profFirstName, profLastName):
+    headers = {
+        'X-Requested-With': 'XMLHttpRequest'
+    }
+
+    params = {
+        'basic': f"{profFirstName} {profLastName}",
+    }
+
+    response = requests.get(
+        'https://uscdirectory.usc.edu/web/directory/faculty-staff/proxy.php',
+        params=params,
+        headers=headers,
+    )
+
+    resp = response
+    # print("Status:", resp.status_code)
+    # print("Content-Type:", resp.headers.get("Content-Type"))
+    # print("Length:", len(resp.text))
+    # print(resp.json())
+    data = resp.json()
+    if type(data) is list:
+        counter = 0
+        for person in data:
+            tokenizer = RegexpTokenizer(r'\w+')
+            name_set = set(tokenizer.tokenize(person['displayname'][0]))
+            if profFirstName in name_set and profLastName in name_set:
+                counter += 1
+        if counter == 1:
+            return True, data
+        else:
+            return False, data
+        # for person in data:
+        #     print(person['displayname'])
+    else:
+        return True, data
+        # print(data)
+
+def buildingScraper():
+    load_dotenv()
+    map_api_key = os.getenv("NODE_MAP_API_KEY")
+
+    url = "https://api.concept3d.com/categories/53722?map=1928&children&key=0001085cc708b9cef47080f064612ca5"
+    response = (requests.get(url)).json()
+    # print(response.status_code) 
+    print(len(response["children"]["locations"]))
+    for location in response["children"]["locations"]:
+        clean = re.sub(r"\s*\([^()]*\)$", "", location["name"])
+        print(clean)
+        if location.get("reference"):
+            print(location["reference"][0])
+            print(location["lng"], location["lat"])
+            url = f"https://geocode.maps.co/reverse?lat={location['lat']}&lon={location['lng']}&api_key={map_api_key}"
+            address = (requests.get(url))
+            if address.status_code == 200:
+                address = address.json()
+            else:
+                print("error")
+                address = {}
+            print(address.get("display_name"))
+        
+
+
+
+def main():
+    buildingScraper()
+    dataListList = []
+    for i in range(9):
+        a = i//3
+        b = (i%3) + 1
+        termCode = 20230 + (a*10) + b
+    termCode = 20253
     url = f"https://classes.usc.edu/api/Programs/TermCode?termCode={termCode}"
     response = requests.get(url)
     # print(response.status_code)  # Should print 200 if the request was successful
@@ -16,245 +90,29 @@ for i in range(9):
     dataList = []
 
     for item in data:
-        print(item["schools"][0]["prefix"], ":", item["prefix"])
+        # print(item["schools"][0]["prefix"], ":", item["prefix"])
         dataList.append((item["schools"][0]["prefix"], item["prefix"]))
     dataListList.append(dataList)
-    print(termCode)
+    # print(termCode)
 
-    # # print(data[1]["schools"][0]["prefix"])
-    # # print(data[1]["prefix"])
-
-    # # Programs = json.loads(data)
-
-    # # print(Programs)
     for school, program in dataList:
         print(school, " ", program)
         url = f"https://classes.usc.edu/api/Courses/CoursesByTermSchoolProgram?termCode={termCode}&school={school}&program={program}"
         response = requests.get(url)
         data = response.json()
         for item in data['courses']:
-            print(item['fullCourseName'], item['description'], item['courseUnits'][0])
+            # print(item['fullCourseName'], item['description'], item['courseUnits'][0])
             for section in item['sections']:
-                print("  ", section['sisSectionId'], section['instructors'])
+                # print("  ", section['sisSectionId'])
+                for instructor in section['instructors']:
+                    # print(instructor['firstName'], instructor['lastName'])
+                    results = instructorValidity(instructor['firstName'], instructor['lastName'])
+                    if not results[0]:
+                    #     print("Good")
+                    # else:
+                        print(f"Multiple Results Found for {section['sisSectionId']} in Course {item['fullCourseName']} with Instructor {instructor['firstName']} {instructor['lastName']}")
         
 
 
-
-# import requests
-# import csv
-
-# # Gather data for 9 terms
-# dataListList_schools = []
-# dataListList_programs = []
-# termCodes = []
-
-# for i in range(9):
-#     a = i // 3
-#     b = (i % 3) + 1
-#     termCode = 20230 + (a * 10) + b
-#     termCodes.append(str(termCode))
-
-#     url = f"https://classes.usc.edu/api/Programs/TermCode?termCode={termCode}"
-#     response = requests.get(url)
-#     data = response.json()
-
-#     schools = {}
-#     programs = {}
-
-#     for item in data:
-#         # --- School ---
-#         if "schools" in item and item["schools"]:
-#             school = item["schools"][0]
-#             school_prefix = school.get("prefix")
-#             school_name = school.get("name")
-#             if school_prefix and school_name:
-#                 schools[school_prefix] = school_name
-
-#         # --- Program ---
-#         program_prefix = item.get("prefix")
-#         program_name = item.get("name")
-#         if program_prefix and program_name:
-#             # If linked to a school, record it
-#             school_prefix = (
-#                 item["schools"][0]["prefix"]
-#                 if "schools" in item and item["schools"]
-#                 else None
-#             )
-#             programs[program_prefix] = {
-#                 "name": program_name,
-#                 "school": school_prefix,
-#             }
-
-#     dataListList_schools.append(schools)
-#     dataListList_programs.append(programs)
-
-# # --- Write Schools CSV ---
-# def write_schools_csv(filename, dataListList, termCodes):
-#     all_codes = sorted({code for d in dataListList for code in d.keys()})
-#     name_map = {code: name for d in dataListList for code, name in d.items()}
-
-#     with open(filename, "w", newline='', encoding='utf-8') as csvfile:
-#         writer = csv.writer(csvfile)
-#         writer.writerow(["Code", "Name"] + termCodes)
-
-#         for code in all_codes:
-#             row = [code, name_map.get(code, "")]
-#             for d in dataListList:
-#                 row.append("Y" if code in d else "")
-#             writer.writerow(row)
-
-
-# # --- Write Programs CSV ---
-# def write_programs_csv(filename, dataListList, termCodes):
-#     all_codes = sorted({code for d in dataListList for code in d.keys()})
-#     name_map = {code: d[code]["name"] for d in dataListList for code in d.keys()}
-
-#     with open(filename, "w", newline='', encoding='utf-8') as csvfile:
-#         writer = csv.writer(csvfile)
-#         writer.writerow(["Code", "Name"] + termCodes)
-
-#         for code in all_codes:
-#             row = [code, name_map.get(code, "")]
-#             for d in dataListList:
-#                 if code in d:
-#                     school_prefix = d[code]["school"]
-#                     cell = f"{school_prefix}" if school_prefix else "Y"
-#                 else:
-#                     cell = ""
-#                 row.append(cell)
-#             writer.writerow(row)
-
-
-# # --- Generate CSVs ---
-# write_schools_csv("schools.csv", dataListList_schools, termCodes)
-# write_programs_csv("programs.csv", dataListList_programs, termCodes)
-
-# print("✅ Finished generating schools.csv and programs.csv")
-# import requests
-# import csv
-
-# # --- Step 1: Fetch data for all terms ---
-
-# dataListList_schools = []
-# dataListList_programs = []
-# termCodes = []
-
-# for i in range(18):
-#     a = i // 3
-#     b = (i % 3) + 1
-#     termCode = 20200 + (a * 10) + b
-#     termCodes.append(str(termCode))
-
-#     url = f"https://classes.usc.edu/api/Programs/TermCode?termCode={termCode}"
-#     response = requests.get(url)
-#     data = response.json()
-
-#     schools = {}
-#     programs = {}
-
-#     for item in data:
-#         # --- School ---
-#         if "schools" in item and item["schools"]:
-#             school = item["schools"][0]
-#             school_prefix = school.get("prefix")
-#             school_name = school.get("name")
-#             if school_prefix and school_name:
-#                 schools[school_prefix] = school_name
-
-#         # --- Program ---
-#         program_prefix = item.get("prefix")
-#         program_name = item.get("name")
-#         if program_prefix and program_name:
-#             school_prefix = (
-#                 item["schools"][0]["prefix"]
-#                 if "schools" in item and item["schools"]
-#                 else None
-#             )
-#             programs[program_prefix] = {
-#                 "name": program_name,
-#                 "school": school_prefix,
-#             }
-
-#     dataListList_schools.append(schools)
-#     dataListList_programs.append(programs)
-
-# # --- Step 2: Write schools.csv ---
-# def write_schools_csv(filename, dataListList, termCodes):
-#     all_codes = sorted({code for d in dataListList for code in d.keys()})
-#     name_map = {code: name for d in dataListList for code, name in d.items()}
-
-#     with open(filename, "w", newline='', encoding='utf-8') as csvfile:
-#         writer = csv.writer(csvfile)
-#         writer.writerow(["Code", "Name"] + termCodes)
-
-#         for code in all_codes:
-#             row = [code, name_map.get(code, "")]
-#             for d in dataListList:
-#                 row.append("Y" if code in d else "")
-#             writer.writerow(row)
-
-# # --- Step 3: Write programs.csv ---
-# def write_programs_csv(filename, dataListList, termCodes):
-#     all_codes = sorted({code for d in dataListList for code in d.keys()})
-#     name_map = {code: d[code]["name"] for d in dataListList for code in d.keys()}
-
-#     with open(filename, "w", newline='', encoding='utf-8') as csvfile:
-#         writer = csv.writer(csvfile)
-#         writer.writerow(["Code", "Name"] + termCodes)
-
-#         for code in all_codes:
-#             row = [code, name_map.get(code, "")]
-#             for d in dataListList:
-#                 if code in d:
-#                     school_prefix = d[code]["school"]
-#                     cell = f"Y {school_prefix}" if school_prefix else "Y"
-#                 else:
-#                     cell = ""
-#                 row.append(cell)
-#             writer.writerow(row)
-
-# # --- Step 4: Write program_school_changes.csv ---
-# def write_school_changes_csv(filename, dataListList, termCodes):
-#     all_codes = sorted({code for d in dataListList for code in d.keys()})
-#     name_map = {code: d[code]["name"] for d in dataListList for code in d.keys()}
-
-#     changes = {}
-#     for code in all_codes:
-#         prev_school = None
-#         row_cells = []
-#         changed = False
-#         missing_term = False
-
-#         for d in dataListList:
-#             if code in d:
-#                 current_school = d[code]["school"]
-#                 if prev_school is None:
-#                     # First appearance
-#                     row_cells.append(current_school if current_school else "")
-#                 elif current_school == prev_school:
-#                     row_cells.append("---")
-#                 else:
-#                     row_cells.append(current_school if current_school else "")
-#                     changed = True
-#                 prev_school = current_school
-#             else:
-#                 row_cells.append("")
-#                 missing_term = True
-
-#         # Include if either a change occurred OR it was missing in any term
-#         if changed or missing_term:
-#             changes[code] = row_cells
-
-#     with open(filename, "w", newline='', encoding='utf-8') as csvfile:
-#         writer = csv.writer(csvfile)
-#         writer.writerow(["Code", "Name"] + termCodes)
-#         for code, row_cells in changes.items():
-#             writer.writerow([code, name_map.get(code, "")] + row_cells)
-
-
-# # --- Step 5: Generate all CSVs ---
-# write_schools_csv("schools.csv", dataListList_schools, termCodes)
-# write_programs_csv("programs.csv", dataListList_programs, termCodes)
-# write_school_changes_csv("program_school_changes.csv", dataListList_programs, termCodes)
-
-# print("✅ Generated: schools.csv, programs.csv, and program_school_changes.csv")
+if __name__ == "__main__":
+    main()
