@@ -4,18 +4,11 @@ from nltk.tokenize import RegexpTokenizer
 def main():
     profFirstName = "Lauren"
     profLastName = "White"
-    headers = {
-        'X-Requested-With': 'XMLHttpRequest'
-    }
-
-    params = {
-        'basic': f"{profFirstName} {profLastName}",
-    }
 
     response = requests.get(
         'https://uscdirectory.usc.edu/web/directory/faculty-staff/proxy.php',
-        params=params,
-        headers=headers,
+        params={'basic': f"{profFirstName} {profLastName}"} ,
+        headers={'X-Requested-With': 'XMLHttpRequest'} ,
     )
 
     resp = response
